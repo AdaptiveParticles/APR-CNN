@@ -1,0 +1,6 @@
+numpy
+scikit-image
+tifffile
+PyQt5
+pyqtgraph
+matplotlib
